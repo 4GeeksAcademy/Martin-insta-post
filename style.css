@@ -1,0 +1,66 @@
+body {
+    background-color: rgb(251, 239, 239);
+}
+
+
+
+html {
+    font-family: "Roboto", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+.Post-insta {
+    background-color: white;
+    border-radius: 10px;
+    width: 400px; 
+    margin: 0 auto;
+   
+    
+}
+
+.content-head {
+    display: flex;
+    
+    
+}
+.content-head span {
+    width: 85%;
+    padding: 5px;
+}
+
+.fa-brands {
+    padding: 10px;
+    font-size: 30px;
+    width: 5%;
+    
+    
+}
+
+.fa-ellipsis-vertical {
+    padding: 10px;
+    font-size: 30px;
+    
+    
+    
+} 
+    
+
+
+
+.Post-img img{
+    width: 400px;
+    height: 300px;
+    object-fit: cover;
+    object-position: right;
+}
+.Post-icons {
+    padding: 10px;
+    font-size: 30px;
+}
+.fa-bookmark {
+    float: right;
+}
+.Post-content {
+    padding: 10px;
+    text-align: justify;
+}
